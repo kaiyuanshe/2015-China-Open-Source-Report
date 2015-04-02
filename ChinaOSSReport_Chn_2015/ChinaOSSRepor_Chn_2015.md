@@ -141,7 +141,7 @@
 
 1. Github上影响力比较大的个人 
 
-
+![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/GitHub_Individual.png?raw=true "")
 
 2. OpenStack 国人贡献排行榜
 
