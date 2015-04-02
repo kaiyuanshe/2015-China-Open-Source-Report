@@ -21,6 +21,8 @@
 | 袁萌   	| 北京大学，教授                                                   	| 最早从事开源软件推广的专家学者，著名的博客撰稿人                                    	|
 | 章文嵩 	| 阿里巴巴，高级研究员，高级副总裁                                 	| 著名的LVS开源项目的创始人，淘宝开源项目的主要推动者，活跃于开源社区的技术、产业交流 	|
 
+*本列表重点关注开源领域有突出贡献的专家学者，这些专家在开源领域尤其是在开源软件国内发展的初期起到了重要的推动作用。*
+
 **2.国际有影响力的开源专家**
 
 | 姓名                      	| 职称                                          	|
@@ -56,6 +58,7 @@
 | 河南Linux用户组    	| 线下聚会                                                                                                                                                                                       	| http://weibo.com/hnlug                                        	|
 | 哈尔滨Linux用户组  	| 月度聚会                                                                                                                                                                                       	| http://gitcafe.com/HrBLUG                                     	|
 
+*只有很少的 Linux 兴趣小组存在，组织一直在变。总体上不会跨越地理位置，并且都是一些小的组织，做一些技术分享、聚会等等的活动。*
 
 **4.开源组织在全国各高校的分布**
 
@@ -98,7 +101,32 @@
 | 福建      	| 厦门大学         	| Linux用户组                	| Yes          	| ad-hoc speeches                                                                                           	|
 | 广州      	| 广州大学         	| 开源软件协会               	| No           	| SFD, The RedFlag CUP                                                                                      	|
 
-**5.开源领域区域大会**
+**5.开源领域国内大会**
+
+| 名称                                                   	| 地点                              	| 时间                               	| 参加人数 	| 人员类型                                                                            	| 主办方                                                            	| 影响力 	| 主流媒介                                                                                                                      	| 网络                                                                            	|
+|--------------------------------------------------------	|-----------------------------------	|------------------------------------	|----------	|-------------------------------------------------------------------------------------	|-------------------------------------------------------------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------	|
+| CSS Conf                                               	| Omni Amelia Island Resort         	| May 26th~27th, 2014                	|          	| users, developers,                                                                  	|                                                                   	|        	|                                                                                                                               	| http://2014.cssconf.com/                                                        	|
+| HTML5峰会                                              	| 北京国际会议中心                  	| 41867                              	| 2000+    	| users, developers,                                                                  	| html5dw                                                           	| 高     	| w3ctechcsdnIT168                                                                                                              	| http://2014.html5dw.com/                                                        	|
+| 开源技术大会（CSDN）                                   	| 北京丽婷酒店                      	| 41728                              	| 500+     	| users, developers,                                                                  	| CSDN                                                              	| 高     	|                                                                                                                               	| http://ostc.csdn.net/m/zone/ostc_2014                                           	|
+| 中国Linux内核开发者大会                                	| 北京清华大学美术学院              	| 41931                              	| 300+     	| users, developers,                                                                  	| fujitsu IBM AKA阿卡信息技术小组、英特尔公司开源技术中心、清华大学 	| 高     	| 水木社区内核版哲思自由软件社区CSDNCSIP开源中国社区龙芯俱乐部南京Linux用户组普智教育                                           	| http://www.ckernel.org/                                                         	|
+| 开源开发工具大会（原HelloGCC技术讨论会）               	| 北京                              	| 41895                              	| 200      	| users, developers,                                                                  	| HelloGCC工作组                                                    	|        	| CSDN                                                                                                                          	| http://www.hellogcc.org/?p=33749                                                	|
+| 中国PyCon年会                                          	| 北京/上海/珠海/苏州/杭州 五城联办 	| 41958                              	| 500+     	| python开发人员                                                                      	| 华莽社区                                                          	|        	| segmentfault 华莽社区 中国科技网                                                                                              	| http://cn.pycon.org/                                                            	|
+| Ruby Conf                                              	| San Diego                         	| November 17-19, 2014               	| 500+     	|                                                                                     	| Ruby Central, Inc.,                                               	|        	|                                                                                                                               	| http://rubyconf.org/                                                            	|
+| GNOME Asia Summit                                      	| 北京                              	| May 23 - 25, 2014                  	| 300+     	| users, developers, business professionals, media, students and government officials 	| GNOME Community                                                   	|        	| CSDN                                                                                                                          	| 2014.gnome.asia                                                                 	|
+| opensuse Asia summit                                   	| Beijing / China                   	| October 18 - 19, 2014              	| 300+     	| users, developers,                                                                  	| OpenSUSE 社区                                                     	|        	|                                                                                                                               	| http://summit.opensuse.org                                                      	|
+| Software Freedom Day                                   	| 世界各地                          	| September 20th 2014                	| 10000+   	| users, developers,                                                                  	| Digital Freedom International (Aka SFI)                           	|        	|                                                                                                                               	| softwarefreedomday.org                                                          	|
+| Education Freedom Day                                  	| 世界各地                          	| January 18th 2014                  	|          	| users, developers,                                                                  	| Digital Freedom International (Aka SFI)                           	|        	|                                                                                                                               	|                                                                                 	|
+| EclipseCon                                             	| San Francisco                     	| March 17-20 2014                   	| 2000+    	| users, developers,                                                                  	| ECLIPSE FOUNDATION                                                	|        	| oreilly                                                                                                                       	| https://www.eclipsecon.org/na2014/news                                          	|
+| The Embedded Linux Conference (ELC)                    	| San Jose Marriott,San Jose,CA     	| April 29-May 1 2014                	| 300+     	|                                                                                     	| Linux Foundation                                                  	|        	| eecatalog.comwww.embedded-computing.comwww.gacetatecnologica.comwww.lwn.netoreilly.com                                        	| http://events.linuxfoundation.org/events/archive/2014/embedded-linux-conference 	|
+| Akademy(the annual world summit of KDE)                	| Brno, Czech Republic              	| the 6th to 12th of September. 2014 	| 300+     	|                                                                                     	| the KDE Community                                                 	|        	|                                                                                                                               	| https://akademy.kde.org/2014                                                    	|
+| OpenDaylight Summit                                    	| Hyatt Santa Clara,Santa Clara     	| February 4-5 2014                  	| 600+     	|                                                                                     	| Linux Foundation                                                  	|        	| sdncentral.com                                                                                                                	| http://events.linuxfoundation.org/events/archive/2014/opendaylight-summit       	|
+| Linux Storage, Filesystem and Memory Management Summit 	| Napa, California                  	| March 24-25 2014                   	| 90+      	| developer                                                                           	| Linux Foundation                                                  	|        	|                                                                                                                               	|                                                                                 	|
+| The Linux Security Summit (LSS)                        	| Chicago, USA                      	| 18 and 19 August  2014             	|          	| Linux developers, researchers, and end users                                        	| Linux Foundation                                                  	|        	| diy-community.comeecatalog.comgacetatecnologica.comhpcwire.comlwn.netsecuritysolutionswatch.comusenix.orgvirtual-strategy.com 	| http://kernsec.org/wiki/index.php/Linux_Security_Summit_2014                    	|
+| CloudStack Collaboration Conference                    	| Budapest, Hungary                 	| 2014 - November 19-21              	| 2000+    	| developers, systems administrators and DevOps professionals                         	| Linux Foundation and Apache Software Foundation                   	|        	| www.gacetatecnologica.com                                                                                                     	|                                                                                 	|
+| ApacheCon                                              	| Budapest, Hungary                 	| November 17-21, 2014               	| 2000+    	| developers, systems administrators and DevOps professionals                         	| Linux Foundation and Apache Software Foundation                   	|        	| www.hpcwire.com                                                                                                               	|                                                                                 	|
+| Xen Developer Summit                                   	| Sheraton Chicago Chicago,IL       	| August 18-19 2014                  	| 1000+    	| Xen Project’s community of developers and power users                               	| Linux Foundation                                                  	|        	|                                                                                                                               	| http://events.linuxfoundation.org/events/xen-project-developer-summit           	|
+
+**6.开源领域区域大会**
 
 | 商业大会 	| CSS Conf                                                 	|
 |----------	|----------------------------------------------------------	|
@@ -116,7 +144,7 @@
 |          	| Education Freedom Day                                    	|
 |          	| ……                                                       	|
 
-**6.开源领域国际会议**
+**7.开源领域国际会议**
 
 | 名称                                  	| 地点       	| 时间    	| 参加人数 	| 人员类型                    	| 主办方                                 	| 影响力 	| 主流媒介           	| 网络                                    	|
 |---------------------------------------	|------------	|---------	|----------	|-----------------------------	|----------------------------------------	|--------	|--------------------	|-----------------------------------------	|
@@ -141,23 +169,23 @@
 
 **1.Github上影响力比较大的个人**
 
-![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/GitHub_Individual.png?raw=true "")
+![GitHub_Individual](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/GitHub_Individual.png?raw=true "")
 
 **2.OpenStack 国人贡献排行榜**
 
-![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/OpenStackContributor.png?raw=true "")
+![OpenStackContributor](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/OpenStackContributor.png?raw=true "")
 
 **3.Linux Kernal 国人贡献排行榜**
 
-![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/LinuxKernalContributor.png?raw=true "")
+![LinuxKernalContributor](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/LinuxKernalContributor.png?raw=true "")
 
 **4.Docker 国人贡献排行榜**
 
-![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/DockerContributor.png?raw=true "")
+![DockerContributor](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/DockerContributor.png?raw=true "")
 
 **5.热门项目 Watch/start/fork**
 
-![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/PopProject.png "")
+![PopProject](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/PopProject.png "")
 
 **6.公共在线社区**
 
@@ -348,6 +376,8 @@
 
 
 **2.政策／重要事件**
+
+----------
 
 在我国，中央政府和地方政府比较少见出台直接针对开源产业发展的政策、法规。政府更多的是从促进信息产业发展的角度来推动开源软件和开源社区在国内的发展。政府主要依赖于各产业推进组织来协调促进开源产业相关事务。
 
