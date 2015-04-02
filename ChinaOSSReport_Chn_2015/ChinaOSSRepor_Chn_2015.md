@@ -145,11 +145,19 @@
 
 2. OpenStack 国人贡献排行榜
 
+![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/OpenStackContributor.png?raw=true "")
+
 3. Linux Kernal 国人贡献排行榜
+
+![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/LinuxKernalContributor.png?raw=true "")
 
 4. Docker 国人贡献排行榜
 
+![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/DockerContributor.png?raw=true "")
+
 5. 热门项目 Watch/start/fork
+
+![alt text](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/PopProject.png "")
 
 6. 公共在线社区
 
