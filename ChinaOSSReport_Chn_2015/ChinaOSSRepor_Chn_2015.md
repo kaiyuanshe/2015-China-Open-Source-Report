@@ -414,4 +414,4 @@
 
 **白清杰，陈晓红，陈阳，陈越，苟颖琪，韩聪，刘天栋， 梁辰晔，李超，王玮。**
 
-*本2015年中国开源生态系统报告基于Creative Commons CC-BY 分享。*
+*本2015年中国开源生态系统报告基于Creative Commons Zero v1.0 Universal 分享。*
