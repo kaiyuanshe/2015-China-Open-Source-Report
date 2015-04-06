@@ -5,3 +5,5 @@
 
 ### 协作方式
 - 许可证： 基于Creative Commons Zero v1.0 Universal 分享
+
+*English version is currently under construction.*
