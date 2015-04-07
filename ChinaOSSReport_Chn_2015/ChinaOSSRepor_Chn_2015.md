@@ -126,25 +126,8 @@
 | ApacheCon                                              	| Budapest, Hungary                 	| November 17-21, 2014               	| 2000+    	| developers, systems administrators and DevOps professionals                         	| Linux Foundation and Apache Software Foundation                   	|        	| www.hpcwire.com                                                                                                               	|                                                                                 	|
 | Xen Developer Summit                                   	| Sheraton Chicago Chicago,IL       	| August 18-19 2014                  	| 1000+    	| Xen Project’s community of developers and power users                               	| Linux Foundation                                                  	|        	|                                                                                                                               	| http://events.linuxfoundation.org/events/xen-project-developer-summit           	|
 
-**6.开源领域区域大会**
 
-| 商业大会 	| CSS Conf                                                 	|
-|----------	|----------------------------------------------------------	|
-|          	| HTML5峰会                                                	|
-|          	| ……                                                       	|
-| 社区大会 	| PyCon                                                    	|
-|          	| Ruby Conf                                                	|
-|          	| GNOME Asia Summit                                        	|
-|          	| opensuse Asia summit                                     	|
-|          	| GDG DevFest                                              	|
-|          	| Open Source Technology Conference（OSTC）                	|
-|          	| Open Source Operating System Annual Technical Conference 	|
-|          	| 中国Linux内核开发者大会                                  	|
-|          	| Software Freedom Day                                     	|
-|          	| Education Freedom Day                                    	|
-|          	| ……                                                       	|
-
-**7.开源领域国际会议**
+**6.开源领域国际会议**
 
 | 名称                                  	| 地点       	| 时间    	| 参加人数 	| 人员类型                    	| 主办方                                 	| 影响力 	| 主流媒介           	| 网络                                    	|
 |---------------------------------------	|------------	|---------	|----------	|-----------------------------	|----------------------------------------	|--------	|--------------------	|-----------------------------------------	|
