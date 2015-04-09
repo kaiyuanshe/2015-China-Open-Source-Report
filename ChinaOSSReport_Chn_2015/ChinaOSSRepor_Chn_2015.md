@@ -85,6 +85,7 @@
 |           	| 西南大学         	| 开源软件协会               	| Yes          	| Nice Traveling on Linux, SFD, ad-hoc speeches                                                             	|
 |           	| 重庆邮电大学     	| Linux协会                  	| No           	| SFD                                                                                                       	|
 | 广东      	| 汕头大学         	| Linux协会                  	| No           	| Night of Linux, SFD                                                                                       	|
+|           	| 广州大学         	| 开源软件协会               	| No           	| SFD, The RedFlag CUP                                                                                      	|
 | 湖北      	| 武汉科技大学     	| 开源软件协会               	| No           	| SFD, The RedFlag CUP, The Loongson CUP, open source competition among 3 universities in Wuhan             	|
 |           	| 武汉大学         	| 计算机协会, 程序员协会     	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities                                                 	|
 | 陕西      	| 西安邮电大学     	| Linux兴趣小组              	| Yes          	| SFD, The RedFlag CUP, Firefox Open Source in Universities, The Loongson CUP, scheduled technical speeches 	|
@@ -99,7 +100,6 @@
 | 浙江      	| 浙江大学         	| Linux用户组                	| No           	| SFD, ad-hoc open source speeches                                                                          	|
 | 辽宁      	| 东北大学         	| 开源软件协会               	| Yes          	| SFD                                                                                                       	|
 | 福建      	| 厦门大学         	| Linux用户组                	| Yes          	| ad-hoc speeches                                                                                           	|
-| 广州      	| 广州大学         	| 开源软件协会               	| No           	| SFD, The RedFlag CUP                                                                                      	|
 
 **5.开源领域国内大会**
 
