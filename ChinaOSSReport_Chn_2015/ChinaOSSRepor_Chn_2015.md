@@ -214,6 +214,7 @@
 - CSDN CODE（code.csdn.net）
 - Git@OSC（git.oschina.net）
 - TaoCode（code.taobao.org/fastregister/）
+- Coding (https://coding.net/git)
 
 **9.下载站点**
 
