@@ -97,7 +97,7 @@
 | 山东      	| 山东大学         	| 开源软件俱乐部             	| No           	| SFD                                                                                                       	|
 |           	| 青岛大学         	| OSQDU OSS Organization     	| Yes          	| SFD, ad-hoc speeches                                                                                      	|
 | 黑龙江    	| 哈尔滨工业大学   	| IBM俱乐部, 计算机协会      	| No           	| SFD, debugging competitions                                                                               	|
-| 浙江      	| 浙江大学         	| Linux用户组                	| No           	| SFD, ad-hoc open source speeches                                                                          	|
+| 浙江      	| 浙江大学         	| Linux用户组                	| Yes           	| SFD, ad-hoc open source speeches                                                                          	|
 | 辽宁      	| 东北大学         	| 开源软件协会               	| Yes          	| SFD                                                                                                       	|
 | 福建      	| 厦门大学         	| Linux用户组                	| Yes          	| ad-hoc speeches                                                                                           	|
 
