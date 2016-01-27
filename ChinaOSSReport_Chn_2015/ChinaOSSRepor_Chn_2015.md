@@ -76,11 +76,10 @@
 |           	| 上海大学         	| 开源软件社区               	|              	|                                                                                                           	|
 | 天津      	| 天津大学         	| 北洋Linux协会              	| Yes          	| SFD, The RedFlag CUP, ad-hoc speeches                                                                     	|
 | 安徽      	| 中国科技技术大学 	| Linux学生用户协会          	| No           	| Linux Install Party, SFD, Firefox in Universities, ad-hoc speeches                                        	|
-|           	| 南京邮电大学     	| 开源软件社区               	| No           	| Open Source in Universities, SFD, The RedFlag CUP, ad-hoc speeches                                        	|
+|   江苏    	| 南京邮电大学     	| 开源软件社区               	| No           	| Open Source in Universities, SFD, The RedFlag CUP, ad-hoc speeches                                        	|
 | 甘肃      	| 兰州大学         	| 开源软件组织、IBM俱乐部    	| Yes          	| The Linux Open Day, SFD, The RedFlag CUP, ad-hoc speeches                                                 	|
 | 四川      	| 电子科技大学     	| Linux协会                  	| Yes          	| SFD, The RedFlag CUP                                                                                      	|
-|           	| 四川大学         	| 科学与技术协会             	| No           	| SFD, The RedFlag CUP, Firefox Open Source in Universities                                                 	|
-|           	| 西安科技大学     	| 开源软件协会               	| No           	| SFD, ad-hoc speeches                                                                                      	|
+|           	| 四川大学         	| 科学与技术协会             	| No           	| SFD, The RedFlag CUP, Firefox                                                                             	|                                                                    
 | 重庆      	| 重庆大学         	| 开源软件协会               	| No           	| SFD, The Loongson CUP                                                                                     	|
 |           	| 西南大学         	| 开源软件协会               	| Yes          	| Nice Traveling on Linux, SFD, ad-hoc speeches                                                             	|
 |           	| 重庆邮电大学     	| Linux协会                  	| No           	| SFD                                                                                                       	|
@@ -94,6 +93,7 @@
 |           	| 西安理工大学     	| Linux小组                  	| No           	| SFD, The RedFlag CUP                                                                                      	|
 |           	| 陕西科技大学     	| Linux兴趣小组              	| No           	| SFD, The RedFlag CUP                                                                                      	|
 |           	| 西北农林科技大学 	| 西农开源软件协会           	| No           	| SFD, The RedFlag CUP                                                                                      	|
+|           	| 西安科技大学     	| 开源软件协会               	| No           	| SFD, ad-hoc speeches
 | 山东      	| 山东大学         	| 开源软件俱乐部             	| No           	| SFD                                                                                                       	|
 |           	| 青岛大学         	| OSQDU OSS Organization     	| Yes          	| SFD, ad-hoc speeches                                                                                      	|
 | 黑龙江    	| 哈尔滨工业大学   	| IBM俱乐部, 计算机协会      	| No           	| SFD, debugging competitions                                                                               	|
